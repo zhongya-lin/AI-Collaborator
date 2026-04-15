@@ -1,0 +1,26 @@
+# LLM APIs
+backoff
+openai==2.30.0
+anthropic
+# Viz
+matplotlib
+pymupdf4llm
+rich
+# Common
+pydantic
+tenacity
+numpy
+tqdm
+python-dotenv
+tiktoken
+aiohttp
+json-repair
+# Generation
+torch==2.10.0
+sentence-transformers==5.3.0
+scikit-learn==1.8.0
+pymupdf
+aiohttp
+streamlit
+textblob
+nltk
